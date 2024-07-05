@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/kishore-s-65277221a" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="100" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kishore..selvaraj..2004?igsh=MW5va2dhemd2cGM3eQ==" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="110" /></a>
+  <a href="https://www.instagram.com/kishore._.selvaraj._.2004/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="110" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/kishore.selvaraj.1800" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="30" width="100" /></a>
 </p>
