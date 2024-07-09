@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore</h1>
+vara<h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">A passionate web developer and BE CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore&label=Profile%20views&color=0e75b6&style=flat" alt="kishore" /> </p>
@@ -62,6 +62,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishoreselvaraj&show_icons=true&locale=en&layout=compact" alt="kishore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore&show_icons=true&locale=en" alt="kishore" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoreselvaraj&show_icons=true&locale=en" alt="kishore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore&" alt="kishore" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishoreselvaraj&" alt="kishore" /></p>
