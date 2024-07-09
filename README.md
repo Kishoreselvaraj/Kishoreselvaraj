@@ -1,4 +1,4 @@
-vara<h1 align="center">Hi 👋, I'm Kishore</h1>
+<h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">A passionate web developer and BE CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore&label=Profile%20views&color=0e75b6&style=flat" alt="kishore" /> </p>
